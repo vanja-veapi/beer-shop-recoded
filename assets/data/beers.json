@@ -1,0 +1,182 @@
+[
+    {
+        "id": "pivo1",
+        "dataid": 1,
+        "beerName":"Argus",
+        "typeBeer":"Bottle",
+        "price": 45,
+        "img":
+        {
+            "src":"assets/img/store/argus.jpg",
+            "alt":"Argus beer"
+        }
+    },
+    {
+        "id": "pivo2",
+        "dataid": 2,
+        "beerName":"Bip",
+        "typeBeer":"Bottle",
+        "price": 70,
+        "img":
+        {
+            "src":"assets/img/store/bip.jpg",
+            "alt":"BIP beer"
+        }
+    },
+    {
+        "id": "pivo3",
+        "dataid": 3,
+        "beerName":"Dilemma - IPA",
+        "typeBeer":"Craft",
+        "price": 250,
+        "img":
+        {
+            "src":"assets/img/store/dilemma-ipa.jpg",
+            "alt":"Dilemma - IPA"
+        }
+    },
+    {
+        "id": "pivo4",
+        "dataid": 4,
+        "beerName":"Dilemma - ALE",
+        "typeBeer":"Craft",
+        "price": 250,
+        "img":
+        {
+            "src":"assets/img/store/dilemma-spring-ale.jpg",
+            "alt":"Dilemma spring ALE"
+        }
+    },
+    {
+        "id": "pivo5",
+        "dataid": 5,
+        "beerName":"Dogma - Albino",
+        "typeBeer":"Craft",
+        "price": 600,
+        "img":
+        {
+            "src":"assets/img/store/dogma-albino.jpg",
+            "alt":"Dogma albino"
+        }
+    },
+    {
+        "id": "pivo6",
+        "dataid": 6,
+        "beerName":"Dogma - Hoptopod",
+        "typeBeer":"Craft",
+        "price": 390,
+        "img":
+        {
+            "src":"assets/img/store/dogma-hoptopod.jpg",
+            "alt":"Dogma hoptopod"
+        }
+    },
+    {
+        "id": "pivo7",
+        "dataid": 7,
+        "beerName":"Dogma - Svetionik",
+        "typeBeer":"Craft",
+        "price": 290,
+        "img":
+        {
+            "src":"assets/img/store/dogma-svetionik.jpg",
+            "alt":"Dogma svetionik"
+        }
+    },
+    {
+        "id": "pivo8",
+        "dataid": 8,
+        "beerName":"Dvorog - Zduhač",
+        "typeBeer":"Craft",
+        "price": 300,
+        "img":
+        {
+            "src":"assets/img/store/dvorog-zduhac.jpg",
+            "alt":"Dvorog zdhuac"
+        }
+    },
+    {
+        "id": "pivo9",
+        "dataid": 9,
+        "beerName":"Heineken",
+        "typeBeer":"Bottle",
+        "price": 90,
+        "img":
+        {
+            "src":"assets/img/store/heineken.jpg",
+            "alt":"Heineken"
+        }
+    },
+    {
+        "id": "pivo10",
+        "dataid": 10,
+        "beerName":"Jelen",
+        "typeBeer":"Bottle",
+        "price": 55,
+        "img":
+        {
+            "src":"assets/img/store/jelen.jpg",
+            "alt":"Jelen"
+        }
+    },
+    {
+        "id": "pivo11",
+        "dataid": 11,
+        "beerName":"Kabinet - Moon",
+        "typeBeer":"Craft",
+        "price": 310,
+        "img":
+        {
+            "src":"assets/img/store/kabinet-to-the-moon.jpg",
+            "alt":"Kabinet to the moon"
+        }
+    },
+    {
+        "id": "pivo12",
+        "dataid": 12,
+        "beerName":"Lav",
+        "typeBeer":"Bottle",
+        "price": 55,
+        "img":
+        {
+            "src":"assets/img/store/lav.jpg",
+            "alt":"Lav"
+        }
+    },
+    {
+        "id": "pivo13",
+        "dataid": 13,
+        "beerName":"Lowenbrau",
+        "typeBeer":"Bottle",
+        "price": 65,
+        "img":
+        {
+            "src":"assets/img/store/lowenbrau.jpg",
+            "alt":"Lowenbrau"
+        }
+    },
+    {
+        "id": "pivo14",
+        "dataid": 14,
+        "beerName":"Nikšić",
+        "typeBeer":"Bottle",
+        "price": 55,
+        "img":
+        {
+            "src":"assets/img/store/niksic.jpg",
+            "alt":"Niksic"
+        }
+    },
+    {
+        "id": "pivo15",
+        "dataid": 15,
+        "beerName":"Paulaner",
+        "typeBeer":"Wheat",
+        "price": 110,
+        "img":
+        {
+            "src":"assets/img/store/paulaner-psenicno.jpg",
+            "alt":"Paulaner - Wheat beer"
+        }
+    }
+]
